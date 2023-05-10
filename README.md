@@ -23,7 +23,7 @@ In this synchronous Kernels-only competition, you'll build a machine learning mo
  * A notebook that contains: 
   * visualization of the data to analysis
   * the preprocessing
-  * anlysis of the model performance
+  * analysis of the model performance
  * the presentation used during the demo day
  * the code of the streamlit used during the presentation
  * the demo day presentation video: https://www.youtube.com/watch?v=UGFg89Nz5yo (in french)
