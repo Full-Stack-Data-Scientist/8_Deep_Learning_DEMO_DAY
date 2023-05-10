@@ -14,7 +14,7 @@ In this synchronous Kernels-only competition, you'll build a machine learning mo
 
 # __Goals__ 🎯
 
-* Built a Deep Learning Model to detect the prescence of the disease as well as its stage of progression
+* Built a Deep Learning Model to detect the presence of the disease as well as its stage of progression on a scale of 0 to 4 being the most advanced stage and 0 being no presence of the disease.
 
 ----------------
 
