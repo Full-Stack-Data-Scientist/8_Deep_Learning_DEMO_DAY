@@ -32,3 +32,4 @@ In this synchronous Kernels-only competition, you'll build a machine learning mo
 # __Project Video Presentation__ 📷
 
 On Vidyard: https://share.vidyard.com/watch/P5HtAZz2ig6BX4ijXAYTY3?
+
